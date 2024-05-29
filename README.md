@@ -150,8 +150,8 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 4) Should see this in the upper right hand corner. Click "Open File" <br>
 <img width="275" alt="rewrite - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/09a9bbc0-8470-4b09-b384-660042ebd1ec">
 <br>
-5) On the License Agreement Page, click the "I accept the terms in the LIcense Agreement" box, then click "Install" <br>
-6) Then click the "Finish" button<br>
+5) On the License Agreement Page, click the "I accept the terms in the LIcense Agreement" box, then click "Install" <img width="385" alt="rewrite - lic agrment page jic" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dd0e4442-6e26-4b78-99df-c8aa5d0fba63"> <br>
+6) Then click the "Finish" button <img width="386" alt="rewrite - finish button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/87200cee-0c04-44ad-b37e-8ff25299d019"> <br>
 <br>
 
 <strong> E - Create the directory C:\PHP </strong>
@@ -490,14 +490,3 @@ End Users osTicket URL: http://localhost/osTicket/
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-<h2> Screenshots for Later, just in case </h2> <br>
-For Install the Rewrite Modue: <br>
-a) Rewrite License Agreement Page 
-<img width="385" alt="rewrite - lic agrment page jic" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dd0e4442-6e26-4b78-99df-c8aa5d0fba63"> <br>
-b) Rewrite Finish button page 
-<img width="386" alt="rewrite - finish button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/87200cee-0c04-44ad-b37e-8ff25299d019"> <br>
-
-
-  
-</p>
