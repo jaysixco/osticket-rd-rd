@@ -414,42 +414,54 @@ THis Pc, c, inetpub, wwwroot, osTicket, include, os-sampleconfig (right click it
 2) Scroll down and click "Continue" <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
 <br>
 
-Name Helpdesk
-
-Default email (receives email from customers)
-
-What I used: <br>
+For the "osTicket Basic Installation" page, fill out the information below to continue your osTicket installation. All fields are required. <br>
+This is a template of what I did. All the info is fake. Just replace "Jay" with whatever you want, and type whatever password you want. **Don't forget the username and password you picked!**  <br>
 Help desk name: Jay HelpDesk <br>
 Default email: jay@helper.com <br>
 First name: Jay <br>
-Last name: Jackson <br>
+Last name: Jay <br>
 Email: jay@gmail.com <br>
 username: jay <br>
-password: Password1 <br>
+password: Password1
+Retype password: Password1 <br>
 
-T - From the Installation Files, download and install HeidiSQL. <br>
-1) Start at the Installation Files Page br>
-<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+</strong> After you fill in the above, scroll down until you see **Database Settings** (add ss).
+
+T - Before we can fill out "Database Settings" section, we have to download and install HeidiSQL. <br>
+1) Open a new tab
+2) Paste this link: https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe
+3) Click "Open File" <img width="273" alt="heidi - open File" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddfa3abc-f9d4-42c6-86bf-5c7506ac820f"> <br>
+4) License Agreement page, click "I accept the agreement", then click "Next" <img width="449" alt="lic ag- I accept, then click next (1)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/71672299-2874-41dc-af2f-8ad9ad471850">
 <br>
-2) Click the download button <br>
-(add screenshot) <br>
-3) If you see this popup, click "Download Anyway" <br>
-(add screenshot)
+5) Destination Location page, click "Next" <img width="449" alt="On Destination Location page, click Next (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/015dee56-e394-44e3-9069-5cfb6fc41370">
 <br>
-4) Should see this in the upper right hand corner. Click "Open File" <br>
-(add screenshot)
+6) Start Menu Folder Page, click "Next" <img width="449" alt="Start Menu Folder Page, click Next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/03a84e09-7962-4895-9b1a-b1b311b52320">
+<br>
+7) Additional Tasks page, click "Next" <img width="449" alt="Additional Tasks Page, click Next (3)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/4f96a78b-7b9b-4628-bcb5-62500656c016">
+<br>
+8) Ready to Install page, click "Install" <img width="449" alt="Ready to Install page, click Install (4)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/17c8a196-a80d-418f-b578-a161f1ac15c6">
+<br>
+9) Click "Finish" <img width="449" alt="Click Finish (5)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7190c10d-85e7-4753-b4a3-f0f4fb8b91d1">
+<br>
+10) Click "Skip" <img width="290" alt="Click Skip (6)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/20ec93a6-da36-42a4-a833-81d0e81600b9">
+<br>
+11) Click "New' <img width="515" alt="Click New (7)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/31680866-b1bf-4885-bf07-7b2bdcf18167">
+<br>
+12) Type a password, then click "Open" <img width="515" alt="Type a password (8)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/09a3634b-5a22-4795-b9e0-c3412de97578">
+<br>
+13) Right click any part of the white space in the sidebar, hover over "Create new", and click "Database" <img width="703" alt="Right click white space in side bar, hover create new, click Database (8)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/6cf76f06-02db-4064-ac47-9f9400ab3f11">
+<br>
+14) Type "osTicket" then click "Ok" <img width="239" alt="Type osTicket (9), then click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f063fe74-7431-4606-8f9c-d57c2e9c80d2">
+<br>
 <br>
 
-Open Heidi SQL <br>
-Create a new session, root/Password1 <br>
-Connect to the session <br>
-Create a database called “osTicket” 
 
-U - Continue Setting up osticket in the browser
+<strong> U - Now you can go back to os Basic Installation page and finish filling out "Database Settings" section </strong> <br>
 MySQL Database: osTicket <br>
 MySQL Username: root <br>
-MySQL Password: Password1 <br>
-Click “Install Now!”
+MySQL Password: Password1 (or whatever password you created) <br>
+After you fill in the section, click “Install Now!” <img width="462" alt="Database settings section filled in, then click Install Now" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/50cd33c8-7161-430f-992a-4a07635287ab"> <br>
+
 
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
