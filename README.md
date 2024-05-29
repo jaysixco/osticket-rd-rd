@@ -508,7 +508,8 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 12) Click "Ok" <img width="272" alt="Click Ok (final one)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/80ab5763-a202-4d2a-bca0-84cdc9565315">
 <br>
-
+<br>
+<br>
 
 Notes: <br>
 Browse to your help desk login page: <br>
