@@ -302,8 +302,7 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <img width="709" alt="click Start" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3b90c9a2-f697-4695-a3ee-c46b26fcc6c1">
 <Br>
 
-<strong> K - Install osTicket v1.15.8 <br>
-Download osTicket from the Installation Files Folder <br>
+<strong> K - Download and Install osTicket v1.15.8 from the Installation Files Folder </strong><br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
@@ -315,6 +314,7 @@ Download osTicket from the Installation Files Folder <br>
 4) Should see this in the upper right hand corner. Click "Open File" <br>
 (add screenshot)
 <br>
+5) You should see this: 
 
 Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
