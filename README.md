@@ -459,7 +459,7 @@ T - Before we can fill out "Database Settings" section, we have to download and 
 <strong> U - Now you can go back to os Basic Installation page and finish filling out "Database Settings" section </strong> <br>
 MySQL Database: osTicket <br>
 MySQL Username: root <br>
-MySQL Password: Password1 (or whatever password you created) <br>
+MySQL Password: Password1 (or whatever password you created in Step 12) <br>
 After you fill in the section, click “Install Now!” <img width="462" alt="Database settings section filled in, then click Install Now" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/50cd33c8-7161-430f-992a-4a07635287ab"> <br>
 
 
