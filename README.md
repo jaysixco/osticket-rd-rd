@@ -291,7 +291,7 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <img width="381" alt="click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/d2ba1fc0-b098-4a52-bc48-c4744caba754">
 <br>
 
-<strong> J - Reload IIS (Open IIS, Stop and Start the server) </strong>
+<strong> J - Reload IIS (Open IIS, Stop and Start the server) </strong> <br>
 1) Press Back to get to IIS Manager page
 <img width="709" alt="press back to get to main homepage" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a0ad6313-a268-48d8-af1b-1035d6d3654c">
 <br>
@@ -320,7 +320,15 @@ Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 
 <strong> L - Reload IIS (Open IIS, Stop and Start the server) </strong> <br>
-(add screenshot)
+1) Press Back to get to IIS Manager page
+<img width="709" alt="press back to get to main homepage" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a0ad6313-a268-48d8-af1b-1035d6d3654c">
+<br>
+2) Click "Stop"
+<img width="709" alt="click Stop" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/97f93bec-cf49-4e74-bddf-eb4a00e95e02">
+<br>
+3) Click "Start"
+<img width="709" alt="click Start" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3b90c9a2-f697-4695-a3ee-c46b26fcc6c1">
+<Br>
 
 <strong> M - Go to sites -> Default -> osTicket <br>
 On the right, click “Browse *:80” </strong> <br>
