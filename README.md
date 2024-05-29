@@ -292,11 +292,15 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <br>
 
 <strong> J - Reload IIS (Open IIS, Stop and Start the server) </strong>
-(add screenshot) <br>
-
-1) Just open vm-osticket (far left side)
-
-2) Just click restart (far right side)
+1) Press Back to get to IIS Manager page
+<img width="709" alt="press back to get to main homepage" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a0ad6313-a268-48d8-af1b-1035d6d3654c">
+<br>
+2) Click "Stop"
+<img width="709" alt="click Stop" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/97f93bec-cf49-4e74-bddf-eb4a00e95e02">
+<br>
+3) Click "Start"
+<img width="709" alt="click Start" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3b90c9a2-f697-4695-a3ee-c46b26fcc6c1">
+<Br>
 
 <strong> K - Install osTicket v1.15.8 <br>
 Download osTicket from the Installation Files Folder <br>
