@@ -201,13 +201,27 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 9) click "Extract" <br>
 <img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fc2135d2-d373-42ff-8b46-461785d4adea">
 <br>
-<br>
+
+
 <strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong> <br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
-2) Click the download button <br>
-(add screenshot) <br>
+2) Click VC_redist's download button <br>
+<img width="960" alt="vc - download button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5ad2afeb-3aa2-4e90-bb9b-a57b65b6a9b5">
+ <br>
+3) If you see this popup, click "Download Anyway" <br>
+<img width="421" alt="vc - download anyway" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/4668bfb0-e290-428d-bbdb-0c01352dd6e7">
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+<img width="274" alt="vc - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9fd1a690-44ed-4103-8370-86177f6c2269">
+<br>
+5) On this page that pops up, click the box next to "I agree to..." then click "Install" <br>
+<img width="360" alt="vc - click I agree  then install" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7a43f32c-df02-4deb-986b-78343541c6cf">
+<br>
+6) Click "Close" <br>
+<img width="360" alt="vc - click close" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9f8d26df-355c-421c-a4ae-d432f89c3866">
+<br>
 
 <strong> H - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong> <br>
 1) Start at the Installation Files Page br>
@@ -215,6 +229,12 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <br>
 2) Click the download button <br>
 (add screenshot) <br>
+3) If you see this popup, click "Download Anyway" <br>
+(add screenshot)
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+(add screenshot)
+<br>
 Typical Setup -> <br>
 Launch Configuration Wizard (after install) -> <br>
 Standard Configuration -> <br>
@@ -244,6 +264,13 @@ Download osTicket from the Installation Files Folder <br>
 <br>
 2) Click the download button <br>
 (add screenshot) <br>
+3) If you see this popup, click "Download Anyway" <br>
+(add screenshot)
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+(add screenshot)
+<br>
+
 Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 
@@ -310,6 +337,13 @@ T - From the Installation Files, download and install HeidiSQL. <br>
 <br>
 2) Click the download button <br>
 (add screenshot) <br>
+3) If you see this popup, click "Download Anyway" <br>
+(add screenshot)
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+(add screenshot)
+<br>
+
 Open Heidi SQL <br>
 Create a new session, root/Password1 <br>
 Connect to the session <br>
