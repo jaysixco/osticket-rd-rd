@@ -175,11 +175,32 @@ Title it PHP <br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
-2) Click the download button <br>
-(add screenshot) <br>
-!! ATTENTION !! <br>
+2) Click the PHP 7.3.8 download button <br>
+<img width="958" alt="php 738 download button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/66fe2096-93b2-4e4c-ac87-483399934b2e">
+<br>
+3a) !! ATTENTION !! <br>
 If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
-
+3b) If you see this popup, click "Download Anyway" <br>
+<img width="420" alt="738 download anyway" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc03d8c-cc37-4b72-a9b9-335de6c8fbd7">
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+<img width="277" alt="php - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fe99b301-2737-4cea-becc-a7149bf50044">
+<br>
+5) Click File Explorer (1), click "Downloads (2), right click "php-7.3.8..." (3), click "extract All" (4) <br>
+(add) <br>
+click "Browse" <br>
+<img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0d3b791c-8af7-43ee-bdc6-65fb83bc64ef">
+<br>
+click "This pc", then click "C:" <br>
+<img width="470" alt="this pc - c" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e8f41dd1-21fc-40b8-a508-79a44ff4fe56">
+ <br>
+click "Select Folder" <br>
+<img width="470" alt="select folder" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b90dee1a-94cc-4eaa-8900-4546ccaf6552">
+<br>
+click "Extract" <br>
+<img width="644" alt="click extract all" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/491d4661-c19d-49be-8ab8-946959599ccb">
+<br>
+<br>
 <strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong> <br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
