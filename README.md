@@ -306,7 +306,7 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
-2) Click the download button <br>
+2) Click osTicket's download button <br>
 (add screenshot) <br>
 3) If you see this popup, click "Download Anyway" <br>
 (add screenshot)
@@ -314,7 +314,15 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 4) Should see this in the upper right hand corner. Click "Open File" <br>
 (add screenshot)
 <br>
-5) You should see this: 
+5) You should see this: (add screenshot) <br>
+6) Right click File Explorer Icon (1), then click "File Explorer" (2) (add screenshot) <br>
+7) Click "This Pc", scroll down, then double click "Windows (C:)" (add screenshot) <br>
+8) Double click "inetpub" (add screenshot) <br>
+9) Double click "wwwroot" (add screenshot) <br>
+10) Open the "osTicket" folder next to the "wwwroot" folder so they're side by side, like this: (add screenshot) <br>
+11) Click "upload" and drag it over the "wwwroot" folder (add screenshot) <br>
+12) In the "wwwroot" folder, right click "upload", then click "Rename" (add screenshot) <br>
+13) Type "osTicket" then hit enter (add screenshot) <br>
 
 Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
