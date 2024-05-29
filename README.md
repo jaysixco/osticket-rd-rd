@@ -142,7 +142,14 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
 2) Click the download button <br>
-(add screenshot) <br>
+<img width="960" alt="rewrite download button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a2db8fbb-1104-447c-b9ff-99ce65e00260">
+<br>
+3) If you see this popup, click "Download Anyway" <br>
+<img width="422" alt="rewrite - Click D anyway" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/8c6528e5-6623-4d0f-a01f-4b13231bb69b">
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+<img width="275" alt="rewrite - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/09a9bbc0-8470-4b09-b384-660042ebd1ec">
+<br>
 <br>
 <br>
 <br>
@@ -316,4 +323,16 @@ End Users osTicket URL: http://localhost/osTicket/
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<h2> Screenshots for Later, just in case </h2> <br>
+For Install the Rewrite Modue:
+a) Rewrite License Agreement Page
+<img width="385" alt="rewrite - lic agrment page jic" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dd0e4442-6e26-4b78-99df-c8aa5d0fba63"> <br>
+b) Rewrite Finish button page
+<img width="386" alt="rewrite - finish button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/87200cee-0c04-44ad-b37e-8ff25299d019"> <br>
+
+
+  
 </p>
