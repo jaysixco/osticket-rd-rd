@@ -87,22 +87,25 @@ Password: osTicketPassword1! (for example/whatever you chose) <br>
   This part is super simple. What it mainly consists of is clicking and downloading things. 
 
 
-Open this in another tab: [Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+<strong> Open Installation File Folder in VM </strong>
 
- - Copy the link 
+1) Log in to VM
 
- - Log in to VM
+2) Open Microsoft Edge, open new tab and paste this link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
- - Go to Microsoft Edge, open new tab and past the link you copied
+
 
 <strong>Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features</strong>
 
-Right click start menu > <br>
-Select run > <br>
+Right click start menu and Select run > <br>
+(add screenshot) <br>
 Type control > <br>
+(add screenshot) <br>
 Programs > <br>
+(add screenshot) <br>
 Turn Windows on/off > <br>
+(add screenshot) <br>
 Check Internet Info Service > <br>
 Expand World Wide Web Services > <br>
 Expand App Dev Features > <br>
@@ -122,9 +125,13 @@ Change downloads to C:, and then put a folder titled PHP inside of it
 
 Steps:
 File Explorer> <br>
+(add screenshot) <br>
 Change Downloads to C: > <br>
+(add screenshot) <br>
 Right click white space + new + folder > <br>
+(add screenshot) <br>
 Title it PHP <br>
+(add screenshot) <br>
 
 
 <strong>From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP<br>
@@ -139,19 +146,18 @@ Launch Configuration Wizard (after install) -> <br>
 Standard Configuration -> <br>
 Password1
 
-<strong>Open IIS as an Admin </strong>
+<strong>Open IIS as an Admin and Register PHP </strong>
 
-1) Just type it (IIS)
+1) Type IIS (1), right click it (2), select  Admin (3)
 
-2) Just right click it (Admin)
-
-<strong>Register PHP from within IIS </strong>
-
-1) Once you're in IIS (just type it, see previous step)>
+(add screenshot) <br>
    
-2) PHP manager > Register new PHP > Click three dots ... > This Pc > PHP > php.cgi > Ok
+2) PHP manager > Register new PHP > Click three dots ... > This Pc > PHP > php.cgi > Ok <br>
+
+(add screenshot) <br>
 
 <strong>Reload IIS (Open IIS, Stop and Start the server) </strong>
+(add screenshot) <br>
 
 1) Just open vm-osticket (far left side)
 
@@ -169,7 +175,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 On the right, click “Browse *:80” </strong> <br>
 (add screenshot)
 
-<strong> Note that some extensions are not enabled <br>
+<strong> Enable extensions <br>
 Go back to IIS, sites -> Default -> osTicket <br>
 Double-click PHP Manager <br>
 Click “Enable or disable an extension”<br>
