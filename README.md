@@ -307,29 +307,35 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
 2) Click osTicket's download button <br>
-(add screenshot) <br>
+<img width="959" alt="os- download button (1)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1ed3c896-e59e-4258-9773-15428f2692d8">
+ <br>
 3) If you see this popup, click "Download Anyway" <br>
-(add screenshot)
+<img width="421" alt="os - download anyway (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ae261aaf-d3dd-455b-8dc6-336480722220">
 <br>
 4) Should see this in the upper right hand corner. Click "Open File" <br>
-(add screenshot)
+<img width="275" alt="os - open file (3)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7cd3eb08-d7d7-44a8-989d-4fc82c455f97">
 <br>
-5) You should see this: (add screenshot) <br>
-6) Right click File Explorer Icon (1), then click "File Explorer" (2) (add screenshot) <br>
-7) Click "This Pc", scroll down, then double click "Windows (C:)" (add screenshot) <br>
-8) Double click "inetpub" (add screenshot) <br>
-9) Double click "wwwroot" (add screenshot) <br>
-10) Open the "osTicket" folder next to the "wwwroot" folder so they're side by side, like this: (add screenshot) <br>
-11) Click "upload" and drag it over the "wwwroot" folder (add screenshot) <br>
-12) In the "wwwroot" folder, right click "upload", then click "Rename" (add screenshot) <br>
-13) Type "osTicket" then hit enter (add screenshot) <br>
-
-Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
+5) You should see this:<img width="425" alt="os - should see this (4)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f1def380-6770-4f46-be47-3259a2a64ff3">
+<br>
+6) Right click File Explorer Icon (1), then click "File Explorer" (2) <img width="192" alt="right click file explorer icon, click file explorer (5)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f221bf84-4465-413f-9237-aabe34360ff2">
+<br>
+7) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+<br>
+8) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+<br>
+9) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+<br>
+10) Open the "osTicket" folder next to the "wwwroot" folder so they're side by side, like this: <img width="869" alt="side by side" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5dbf1001-dc33-4e64-97f8-a5c6488cac57">
+<br>
+11) Click "upload" and drag it over the "wwwroot" folder. <br>
+12) In the "wwwroot" folder, right click "upload", then click "Rename" <img width="425" alt="right click upload, then click rename" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/4d654854-76d4-4290-9a91-ea0e68cf7b4f">
+<br>
+13) Type "osTicket" then hit enter <img width="425" alt="type osTicket then hit enter" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/615dc790-3efc-440f-a571-4a90ed6994ea">
+<br>
 
 <strong> L - Reload IIS (Open IIS, Stop and Start the server) </strong> <br>
-1) Press Back to get to IIS Manager page
-<img width="709" alt="press back to get to main homepage" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a0ad6313-a268-48d8-af1b-1035d6d3654c">
+1) Open the IIS Manager page
+<img width="709" alt="IIS manger homepage" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5bdd5ea3-e349-48a8-a15b-7f5712f62b82">
 <br>
 2) Click "Stop"
 <img width="709" alt="click Stop" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/97f93bec-cf49-4e74-bddf-eb4a00e95e02">
@@ -337,35 +343,71 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 3) Click "Start"
 <img width="709" alt="click Start" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3b90c9a2-f697-4695-a3ee-c46b26fcc6c1">
 <Br>
+4) Double click "Sites" (1), double click "Default Web Site" (2), click "osTicket" (3), click "Browse *:80 (http)" (4)  <br>
+<img width="709" alt="sites to browse 80" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3cbe4ede-bfa0-4ff6-b474-e0d1cd9bf922">
+<br>
+5) This page should pop up: <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7">
+<br>
 
-<strong> M - Go to sites -> Default -> osTicket <br>
-On the right, click “Browse *:80” </strong> <br>
-(add screenshot)
 
-<strong> N - Enable extensions <br>
-Go back to IIS, sites -> Default -> osTicket <br>
-Double-click PHP Manager <br>
-Click “Enable or disable an extension”<br>
-Enable: php_imap.dll <br>
-Enable: php_intl.dll <br>
-Enable: php_opcache.dll <br>
-Refresh the osTicket site in your browse, observe the changes </strong>
+<strong> N - Enable extensions  </strong> <br>
+Go back to the osTicket IIS page (sites -> Default -> osTicket) and double-click PHP Manager <img width="709" alt="sites to browse 80" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/abba92c8-0c38-446e-ba85-e42205b852a8">
+<br>
+Scroll down and click “Enable or disable an extension” <img width="709" alt="enable extensions" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f96a9b0f-0f05-4f0e-b8b3-233371d318db">
+<br>
+Enable: php_imap.dll by clicking the name (1), then clicking "Enable" (2) <img width="709" alt="enable imap" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/73ccc489-7f83-4bc8-ba81-3a6c58551cae">
+<br>
+Enable: php_intl.dll by clicking the name (1), then clicking "Enable" (2) <img width="709" alt="enable intl" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/98e683a0-0452-4451-b3c8-ed5aac87d963">
+<br>
+Enable: php_opcache.dll by clicking the name (1), then clicking "Enable" (2) <img width="709" alt="enable opcache" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dc076b6e-ff99-4aa5-8539-c42e2f96224b">
+<br>
+Pull this page up again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
+and scroll down <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
+<br>
+Hit refresh, observe the chanfges <img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
+<br>
 
 <strong> O - Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong>
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong> <br>
+Open File Explorer,
+THis Pc, c, inetpub, wwwroot, osTicket, include, os-sampleconfig (right click it, click "Rename", then type "ost-config"
+1) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+<br>
+2) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+<br>
+3) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+<br>
+4) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
+<br>
+5) Double click "include" <img width="425" alt="dub click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/10790f42-b071-4e24-8eed-03eae78934d0">
+<br>
+6) Scroll down, right click "ost-sampleconfig.php", then click "Rename" <img width="425" alt="right click sample click rename" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/c8aaf1a5-6695-48d5-8aed-2102ef891c8e">
+<br>
+7) Type "ost-config.php" then hit enter <img width="425" alt="Rename to ost-config php" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/27dfd762-3f53-475f-a895-0b66ac0890e8">
+<br>
 
 <strong> P - Assign Permissions: ost-config.php</strong> <br>
-1) Right click ost-config> <br>
-2) P-S-A: Properties - Security - Advanced)> <br>
-3) Disable inheritance > <br>
-4) Remove All > <br>
-5) ADD > <br>
-6) Select a principal > <br>
-7) Type everyone + Click check names > <br>
-8) Ok > <br>
-9) Click Full Control box (all boxes should automatically become checked, if not: check them) > <br>
-10) OK > Apply > OK > OK <br>
+1) Right click "ost-config.php" then click "Properties"> <img width="425" alt="right click, then click Properties" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a024291f-55dd-495a-b3f8-4b99c5bc44e4">
+<br>
+2) Click "Security" tab, then click "Advanced"> <img width="272" alt="click Security Tab, then click Advanced" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/65c64323-e042-41fd-bff0-7ae6ac8fafe1">
+<br>
+3) Click "Disable Inheritance"> <img width="575" alt="Click Disable Inheritance" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/8b3ce28b-5c5c-47e1-9f55-0ad5eb694d8f">
+<br>
+4) Click "Remove all..."> <img width="397" alt="Click Remove all" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/6dee7181-e684-442a-8233-4d523b500f2c">
+<br>
+5) Click "Add"> <img width="575" alt="Click Add" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f7d1405a-2bb5-4ec5-b0a9-e4768aa37584">
+<br>
+6) Click "Select a principal"> <img width="688" alt="Click Select a principal" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/153aa6b3-c5ea-4fe1-89f6-f2382bf8ab2f">
+<br>
+7) Type "everyone" (1) click "Check Names" (2), and then click "Ok" > <img width="342" alt="Type everyone then click Check Names" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0b57bfb6-0362-4fb7-8305-d62b2f25f172">
+<br>
+8) Click "Full Control" box (all boxes should automatically become checked, if not: check them) then click "OK" > <img width="688" alt="Click Full Control box" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f177e7d4-961d-4fd9-9e88-c585f4ff4bbd">
+<br>
+9) Click "Apply"(1) then click "OK" (2) <img width="575" alt="Click Apply then click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/bc1c134d-2879-49f9-bbc4-aeb54058f909">
+<br>
+10) On this page, click "Ok" <img width="272" alt="On this page, click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/66259056-b1a8-46fc-80ca-77241cd03c29">
+<br>
 
 <strong> Q - Disable inheritance -> Remove All</strong> <br>
 1) Right click + PSA
