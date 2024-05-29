@@ -361,7 +361,7 @@ Enable: php_intl.dll by clicking the name (1), then clicking "Enable" (2) <img w
 <br>
 Enable: php_opcache.dll by clicking the name (1), then clicking "Enable" (2) <img width="709" alt="enable opcache" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dc076b6e-ff99-4aa5-8539-c42e2f96224b">
 <br>
-Pull this page up again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
+Pull up this page up again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
 and scroll down <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
 <br>
 Hit refresh, observe the chanfges <img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
@@ -409,17 +409,10 @@ THis Pc, c, inetpub, wwwroot, osTicket, include, os-sampleconfig (right click it
 10) On this page, click "Ok" <img width="272" alt="On this page, click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/66259056-b1a8-46fc-80ca-77241cd03c29">
 <br>
 
-<strong> Q - Disable inheritance -> Remove All</strong> <br>
-1) Right click + PSA
-
-
-<strong> R - New Permissions -> Everyone -> All</strong>
-1) Add> <br>
-2) Select a principal> <br>
-3) Type everyone> <br>
-4) Check names + check Full control (make sure all boxes checked) <br>
-
 <strong> S - Continue Setting up osTicket in the browser (click Continue) </strong>
+1) Pull up this page again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
+2) Scroll down and click "Continue" <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
+<br>
 
 Name Helpdesk
 
