@@ -272,13 +272,24 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 
 <strong> I - Open IIS as an Admin and Register PHP </strong>
 
-1) Type IIS (1), right click it (2), select  Admin (3)
-
-(add screenshot) <br>
-   
-2) PHP manager > Register new PHP > Click three dots ... > This Pc > PHP > php.cgi > Ok <br>
-
-(add screenshot) <br>
+1) Type IIS in start menu search box(1), click "Run as administrator" (2) <br>
+<img width="588" alt="IIS, run as admin" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/044c166a-6400-41f9-b421-3719bd8eac99">
+<br>  
+2) Double click "PHP Manager" >
+<img width="709" alt="double click PHP manager" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/94c4f761-1d7b-47fa-9d06-260f9d6599bb">
+<br>
+3) Click "Register new PHP" >
+<img width="709" alt="click Register new PHP version" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/d19d2157-9025-48a5-99e0-a61a5433dbc5">
+<br>
+4) Click the three dots >
+<img width="381" alt="click the three dots" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e64bf95d-a016-425c-866f-8ebfff7ee377">
+<br>
+5) Scroll down, click "php.cgi", then click "Open">
+<img width="470" alt="scroll down, click php-cgi, then click Open" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3a123142-95e1-4567-b5cc-55cb5862f9b1">
+<br>
+6) Click "Ok" <br>
+<img width="381" alt="click the three dots" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1ae96362-d8f1-46d3-bae5-2c5f0d254b95">
+<br>
 
 <strong> J - Reload IIS (Open IIS, Stop and Start the server) </strong>
 (add screenshot) <br>
