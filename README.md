@@ -88,28 +88,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 1) Log in to VM
 
-2) Open Microsoft Edge, open new tab and paste this link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+2) Open Microsoft Edge, open new tab and paste this link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, which will bring you to this page that I will refer to from here on as the "Installation Files page": <br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a8a64155-d6a0-4bbc-bbe7-0da0be3f145a">
 
 
 
 <strong> B - Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features</strong>
 
-Right click start menu and Select run > <br>
-(add screenshot) <br>
-Type control > <br>
-(add screenshot) <br>
-Programs > <br>
-(add screenshot) <br>
-Turn Windows on/off > <br>
-(add screenshot) <br>
-Check Internet Info Service > <br>
-Expand World Wide Web Services > <br>
-Expand App Dev Features > <br>
-Check CGI > <br>
-Expand Common HTTP Feat > <br>
-Check all boxes > <br>
-Ok <br>
+Right click start menu (1) and Select "Run" (2) > <br>
+<img width="485" alt="Start - Run" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/11052743-ebe1-49f2-aad1-7973764c86df">
+ <br>
+Type control, then click "OK"> <br>
+<img width="295" alt="control - ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b4fcb9fa-a555-45bd-8dcf-39b5e527555e">
+<br>
+Click "Programs" > <br>
+<img width="590" alt="Programs" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7f9abe39-88a5-4e83-969e-eb8402f48a98">
+<br>
+Click "Turn Windows on/off" > <br>
+<img width="590" alt="Windows on off" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dc049e7b-4395-41ad-96d0-c3f383a8e872">
+<br>
+Check "Internet Information Service" (1), then click the small plus sign next to it to expand it (2) > <br>
+<img width="347" alt="Internet Information Service" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f22f6e37-369f-4c8e-a7b7-ca7303de2a71"> 
+<br>
+CLick small plus sign to Expand "World Wide Web Services" (1), Click small plus sign to Expand "Application Development Features" (2), then check box next to "CGI" (3) <br>
+<img width="347" alt="Check CGI" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3a9db1da-729b-423e-b01f-2f778bf4051e"> 
+<br>
+Scroll down a little bit and click small plus sign to Expand "Common HTTP Features", then make sure all the boxes are checked, then click "Ok". When done, Should look like this:
+<img width="347" alt="Common HTTP Features" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/254933bb-3f0a-4adc-9aff-6d8a74ce8cff">
+<br>
 
 <strong> C - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong>
 
