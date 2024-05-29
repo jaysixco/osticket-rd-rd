@@ -44,37 +44,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <strong>Part 1 (Create Virtual Machine in Azure) </strong>
   
-<strong>Create a Resource Group </strong>
- - To create a Resource group, click the icon on  the Microsoft Azure homepage named Resource groups.
- - If you do not see this icon, you can simply type "Resource Groups" in the Microsoft Azure search box.
- - Look to the upper left side of the screen for a plus sign with the word Create next to it. Click it.
- - Do you see Resource group *? In the empty box next to it, type the name of what you want your resource group to be called. It can be named anything you want.
- - After you name it, look to the bottom of the screen for a box with the words "Review + create" written inside of it and click it.
- - Once you see a green box at the top of the screen that says, "Validation passed", click the box at the bottom of the screen that says "Create".
- - Congratulations! You have just created your resource group!
-  
 <strong>Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs </strong> <br>
- - To create the virtual machine, click the words Microsoft Azure near to the top of the screen, which will take you to the homepage. There will be an icon that says "Virtual machines". Click it.
- - If you don't see it, or just want to use another way, type "Virtual Machines" in the search box and click the first option presented.
- - On the upper left hand side of the screen, click the plus sign with the word "Create" next to it. Select the first option in the drop down menu that comes. It should be titled "Azure virtual machine".
- - Boxes you have to fill out:
-	- Resource group *: Click the arrow on the right side of the box and select the name of the resource group you created.
-	- Virtual machine name*: name it whatever you want
-   	- Image*: Click the arrow in the right side of the box and select the option that includes "Windows 10"
-   	- Size*: Pick any of the options that says "2 vcpus" or "4 vcpus"
-   	- Username*: name it whatever you want
-   	- Password*: whatever you want
-   	- Confirm password*: just retype the password you chose
-   	- Near the bottom of the screen, check the box next to the sentence: "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights." Then click the blue box at the bottom that says, "Review + create"
-   	- Once you see a green box at the top of the screen that says, "Validation passed", click the box at the bottom of the screen that says "Create".
-   	- Wait until you see the words "Your deployment is complete" on your screen or you recieve a notification on your screen (a pop up box in the upper right side of screen) that say "Deployment succeeded".
-		- You can also click on the bell to see the notifications (to find it look at the Microsoft Azure search box, then slide your eyes to the right; it should be the second icon. You can also hover your mouse over it and see if it says Notification. If it does, click it.)
 
-Name: Vm-osticket <br>
-Username: labuser (for example/whatever you chose) <br>
-Password: osTicketPassword1! (for example/whatever you chose) <br>
+1) Type "portal.azure.com" in the url search bar, which should bring you to the Azure homepage and then click "Virtual Machines" (see screenshot)
+![Screenshot 2024-05-19 120803](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/3e38d2a9-6b4a-4191-8d7b-371ced1ae53d)
 
-<em> Screenshot idea: Screenshot the whole page with an example </em>
+2) On the Virtual Machines page, click "+ Create" (in the left hand corner) and then click "Azure virtual machine" in the drop down menu (see screenshot)
+![Screenshot 2024-05-19 121645](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/1478bc17-d2e7-4b9e-9da5-d3f1a560becd)
+
+
+4) For "Resource group *" - click "Create new" and then type whatever name you want <br>
+   For "Virtual machine name *" - type whatever name you want <br>
+   For "Region *" - Click any option that starts with ("US") <br>
+   For "Availability Zone * - Leave it as "Zone 1"<br>
+   For "Image *" - click "Windows 10 Pro, version 22H2 - x64 Gen2" <br>
+   For "Size *" - Any option that has "2 vcpus" or "4 vcpus" <br>
+   For "Username *" - whatever you want <br>
+   For "Password *" - whatever you want <br>
+   For "Confirm password *" - whatever you typed in previous step <br>
+   For "Public inbound ports *" - "Allow selected ports" <br>
+   For "Select inbound ports *" - "RDP (3389)" <br>
+   Under "Licensing" check the box next to "I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights." <br>
+   When you're done, cLick the blue button at the bottom that says "Review + create"
+   An example of how the page should look like when done: <br>
+   ![Full page 1](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/24ba3f96-d158-43c7-a62b-2b8046d0ad02)
+   ![Full page 2](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/d0a69adc-1767-4477-824d-e83f8c83e24d)
+   
+6) Clicking "Review + create" from the previous step will bring you to this page. All you have to do is click the blue button that says "Create".
+![Screenshot 2024-05-19 130702](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/48b6672d-5ec0-46e2-b79e-4cdf45514bc8)
 
 </p>
 <br />
