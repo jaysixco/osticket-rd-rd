@@ -510,9 +510,11 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 
 
-Notes:
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/ 
+Notes: <br>
+Browse to your help desk login page: <br>
+http://localhost/osTicket/scp/login.php <br>
+End Users osTicket URL: <br>
+http://localhost/osTicket/ 
 
 </p>
 <br />
