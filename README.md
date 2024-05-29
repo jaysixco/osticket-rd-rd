@@ -87,7 +87,7 @@ Password: osTicketPassword1! (for example/whatever you chose) <br>
   This part is super simple. What it mainly consists of is clicking and downloading things. 
 
 
-<strong> Open Installation File Folder in VM </strong>
+<strong> A - Open Installation File Folder in VM </strong>
 
 1) Log in to VM
 
@@ -95,7 +95,7 @@ Password: osTicketPassword1! (for example/whatever you chose) <br>
 
 
 
-<strong>Install / Enable IIS in Windows WITH
+<strong> B - Install / Enable IIS in Windows WITH
 CGI and Common HTTP Features</strong>
 
 Right click start menu and Select run > <br>
@@ -114,11 +114,11 @@ Expand Common HTTP Feat > <br>
 Check all boxes > <br>
 Ok <br>
 
-<strong>From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong>
+<strong> C - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong>
 
-<strong>From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi) </strong>
+<strong> D - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi) </strong>
 
-<strong>Create the directory C:\PHP </strong>
+<strong> E - Create the directory C:\PHP </strong>
 
 General idea:
 Change downloads to C:, and then put a folder titled PHP inside of it
@@ -134,19 +134,19 @@ Title it PHP <br>
 (add screenshot) <br>
 
 
-<strong>From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP<br>
+<strong> F - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP<br>
 !! ATTENTION !! <br>
 If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 
-<strong>From the Installation Files, download and install VC_redist.x86.exe. </strong>
+<strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong>
 
-<strong>From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong>
+<strong> H - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong>
 Typical Setup -> <br>
 Launch Configuration Wizard (after install) -> <br>
 Standard Configuration -> <br>
 Password1
 
-<strong>Open IIS as an Admin and Register PHP </strong>
+<strong> I - Open IIS as an Admin and Register PHP </strong>
 
 1) Type IIS (1), right click it (2), select  Admin (3)
 
@@ -156,26 +156,26 @@ Password1
 
 (add screenshot) <br>
 
-<strong>Reload IIS (Open IIS, Stop and Start the server) </strong>
+<strong> J - Reload IIS (Open IIS, Stop and Start the server) </strong>
 (add screenshot) <br>
 
 1) Just open vm-osticket (far left side)
 
 2) Just click restart (far right side)
 
-<strong>Install osTicket v1.15.8 <br>
+<strong> K - Install osTicket v1.15.8 <br>
 Download osTicket from the Installation Files Folder <br>
 Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 
-<strong>Reload IIS (Open IIS, Stop and Start the server) </strong> <br>
+<strong> L - Reload IIS (Open IIS, Stop and Start the server) </strong> <br>
 (add screenshot)
 
-<strong>Go to sites -> Default -> osTicket <br>
+<strong> M - Go to sites -> Default -> osTicket <br>
 On the right, click “Browse *:80” </strong> <br>
 (add screenshot)
 
-<strong> Enable extensions <br>
+<strong> N - Enable extensions <br>
 Go back to IIS, sites -> Default -> osTicket <br>
 Double-click PHP Manager <br>
 Click “Enable or disable an extension”<br>
@@ -184,11 +184,11 @@ Enable: php_intl.dll <br>
 Enable: php_opcache.dll <br>
 Refresh the osTicket site in your browse, observe the changes </strong>
 
-<strong>Rename: ost-config.php
+<strong> O - Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong>
 
-<strong>Assign Permissions: ost-config.php</strong> <br>
+<strong> P - Assign Permissions: ost-config.php</strong> <br>
 1) Right click ost-config> <br>
 2) Pizza (P-S-A: Properties - Security - Advanced)> <br>
 3) Disable inheritance > <br>
@@ -200,17 +200,17 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong>
 9) Click Full Control box (all boxes should automatically become checked, if not: check them) > <br>
 10) OK > Apply > OK > OK <br>
 
-<strong>Disable inheritance -> Remove All</strong> <br>
+<strong> Q - Disable inheritance -> Remove All</strong> <br>
 1) Right click + PSA
 
 
-<strong>New Permissions -> Everyone -> All</strong>
- - Add>
-Select a principal>
-Type everyone>
-Check names + check Full control (make sure all boxes checked)
+<strong> R - New Permissions -> Everyone -> All</strong>
+1) Add> <br>
+2) Select a principal> <br>
+3) Type everyone> <br>
+4) Check names + check Full control (make sure all boxes checked) <br>
 
-<strong>Continue Setting up osTicket in the browser (click Continue) </strong>
+<strong> S - Continue Setting up osTicket in the browser (click Continue) </strong>
 
 Name Helpdesk
 
@@ -225,13 +225,13 @@ Email: jay@gmail.com <br>
 username: jay <br>
 password: Password1 <br>
 
-From the Installation Files, download and install HeidiSQL. <br>
+T - From the Installation Files, download and install HeidiSQL. <br>
 Open Heidi SQL <br>
 Create a new session, root/Password1 <br>
 Connect to the session <br>
 Create a database called “osTicket” 
 
-Continue Setting up osticket in the browser
+U - Continue Setting up osticket in the browser
 MySQL Database: osTicket <br>
 MySQL Username: root <br>
 MySQL Password: Password1 <br>
