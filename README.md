@@ -118,9 +118,34 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 <img width="347" alt="Common HTTP Features" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/254933bb-3f0a-4adc-9aff-6d8a74ce8cff">
 <br>
 
-<strong> C - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong>
+<strong> C - From the Installation Files page, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong> <br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click PHP Manager's download button <br>
+<img width="960" alt="PHP - download button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9d7c8ae9-4d64-4dd3-9652-ada8132fbf3b">
+<br>
+3) If you see this popup, click "Download Anyway" <br>
+<img width="422" alt="Click Downlo anyway" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/d58e7fa0-0ea2-4393-88d7-4b63fe822f07">
+<br>
+4) Should see this in the upper right hand corner. Click "Open File" <br>
+<img width="276" alt="Click Open File" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9ee52e6c-1eb1-45ef-9aed-a04577618c11">
+<br>
+5) On the Welcome page, click "Next"<br>
+6) On the License Agreement page, click "I Agree" then click "Next" <br>
+7) On the Installation Complete page, click "Close<br>
+<br>
 
-<strong> D - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi) </strong>
+<strong> D - From the Installation Files page, download and install the Rewrite Module (rewrite_amd64_en-US.msi) </strong>
+<br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
+<br>
+<br>
+<br>
 
 <strong> E - Create the directory C:\PHP </strong>
 
@@ -139,12 +164,27 @@ Title it PHP <br>
 
 
 <strong> F - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP<br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
 !! ATTENTION !! <br>
 If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 
-<strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong>
+<strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong> <br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
 
-<strong> H - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong>
+<strong> H - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) </strong> <br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
 Typical Setup -> <br>
 Launch Configuration Wizard (after install) -> <br>
 Standard Configuration -> <br>
@@ -169,6 +209,11 @@ Password1
 
 <strong> K - Install osTicket v1.15.8 <br>
 Download osTicket from the Installation Files Folder <br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
 Extract and copy “upload” folder to c:\inetpub\wwwroot <br>
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket” <br> </strong>
 
@@ -194,7 +239,7 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong>
 
 <strong> P - Assign Permissions: ost-config.php</strong> <br>
 1) Right click ost-config> <br>
-2) Pizza (P-S-A: Properties - Security - Advanced)> <br>
+2) P-S-A: Properties - Security - Advanced)> <br>
 3) Disable inheritance > <br>
 4) Remove All > <br>
 5) ADD > <br>
@@ -230,6 +275,11 @@ username: jay <br>
 password: Password1 <br>
 
 T - From the Installation Files, download and install HeidiSQL. <br>
+1) Start at the Installation Files Page br>
+<img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
+<br>
+2) Click the download button <br>
+(add screenshot) <br>
 Open Heidi SQL <br>
 Create a new session, root/Password1 <br>
 Connect to the session <br>
