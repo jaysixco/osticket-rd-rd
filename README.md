@@ -370,21 +370,21 @@ Hit refresh, observe the chanfges <img width="463" alt="changes" src="https://gi
 <strong> O - Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong> <br>
-Open File Explorer,
-THis Pc, c, inetpub, wwwroot, osTicket, include, os-sampleconfig (right click it, click "Rename", then type "ost-config"
-1) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+
+1) Open File Explorer
+2) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
 <br>
-2) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+3) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
 <br>
-3) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+4) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
 <br>
-4) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
+5) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
 <br>
-5) Double click "include" <img width="425" alt="dub click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/10790f42-b071-4e24-8eed-03eae78934d0">
+6) Double click "include" <img width="425" alt="dub click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/10790f42-b071-4e24-8eed-03eae78934d0">
 <br>
-6) Scroll down, right click "ost-sampleconfig.php", then click "Rename" <img width="425" alt="right click sample click rename" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/c8aaf1a5-6695-48d5-8aed-2102ef891c8e">
+7) Scroll down, right click "ost-sampleconfig.php", then click "Rename" <img width="425" alt="right click sample click rename" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/c8aaf1a5-6695-48d5-8aed-2102ef891c8e">
 <br>
-7) Type "ost-config.php" then hit enter <img width="425" alt="Rename to ost-config php" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/27dfd762-3f53-475f-a895-0b66ac0890e8">
+8) Type "ost-config.php" then hit enter <img width="425" alt="Rename to ost-config php" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/27dfd762-3f53-475f-a895-0b66ac0890e8">
 <br>
 
 <strong> P - Assign Permissions: ost-config.php</strong> <br>
@@ -470,14 +470,45 @@ End Users osTicket URL:
 http://localhost/osTicket/ 
 
 <strong> Clean up </strong><br>
-1) Delete: C:\inetpub\wwwroot\osTicket\setup
+Delete: C:\inetpub\wwwroot\osTicket\setup
+
+1) Open File Explorer
+2) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+<br>
+3) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+<br>
+4) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+<br>
+5) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
+<br>
+6) Right click "setup", then click "Delete" <img width="425" alt="right click setup, then click delete" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e7333446-66d0-4c4c-a229-fde246707b8d">
+<br>
 
 
-<strong>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php </strong>
-1) PSA (Properties, Security, Advanced)> <br>
-2) Click everyone> <br>
-3) Click Edit > <br>
-4) Uncheck modify&write (only boxes with the word read in it should be checked - ex: read & execute, read)
+<strong>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php </strong> <br>
+1) Open File Explorer
+2) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+<br>
+3) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+<br>
+4) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+<br>
+5) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
+<br>
+6) Double click "include> <img width="425" alt="double click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fd3afa7b-b44c-430c-b44e-cd03debb8a59">
+<br>
+7) Scroll down, right click "ost-config.php", click "Properties"> <img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
+<br>
+8) Click "Security" tab, then click "Advanced"> <img width="272" alt="click Security tab, click Advanced" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/529c2f8c-57c8-4181-a076-4b14ba48eb5d">
+<br>
+9) Click "Everyone", then click "Edit" <img width="575" alt="click Everyone, then click Edit (4)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a245b1a1-eb9e-4b06-8661-d0158ebc11e7"><br>
+10) Uncheck "Modify", uncheck "Write", then click "OK" <img width="688" alt="Uncheck Modify, then uncheck Write, then click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7e4ce5c0-e2ca-4e62-9418-dd9a2c97e830">
+<br>
+11) Click "Apply", then click "Ok" <img width="575" alt="Click Apply, click Ok (after Modify)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0bdf4614-4a0d-4da8-a4dc-533c24344d52">
+<br>
+12) Click "Ok" <img width="272" alt="Click Ok (final one)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/80ab5763-a202-4d2a-bca0-84cdc9565315">
+<br>
+
 
 Notes:
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
