@@ -227,18 +227,48 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 1) Start at the Installation Files Page br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
-2) Click the download button <br>
-(add screenshot) <br>
+2) Click MySQL 5.5.62's download button <br>
+<img width="960" alt="mysq's - download button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/20c3996f-f1bd-4062-9593-8fdcba7102c8">
+<br>
 3) If you see this popup, click "Download Anyway" <br>
-(add screenshot)
+<img width="420" alt="mysq - download anyway" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/2d05aef6-a1e8-4099-83da-7c666b7b4344">
 <br>
 4) Should see this in the upper right hand corner. Click "Open File" <br>
-(add screenshot)
+<img width="275" alt="mysq - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9da147fc-8738-4534-bd57-2924a8ed2b9d">
 <br>
-Typical Setup -> <br>
-Launch Configuration Wizard (after install) -> <br>
-Standard Configuration -> <br>
-Password1
+5) Welcome page, click "Next" <br>
+<img width="386" alt="mysq - welcome page, click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/47981e67-8301-473a-bfd4-5b9e89b31193">
+<br>
+6) License Agreement page, click "I accept the terms..." (1), then click "Next" (2) <br>
+<img width="386" alt="mysq - I accept the terms, next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/cfeaa64e-bf0b-44a8-9041-458ca0f7725e">
+<br>
+7) Choose setup type page, click "Typical" <br>
+<img width="386" alt="mysq - setup type, typical " src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3c49f584-755d-4e1e-a841-e8f66af586d0">
+<br>
+8) Ready, click "Install" <br>
+<img width="386" alt="ready, click Install" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/15f14e4b-6300-4056-aeb0-48843f7abcd1">
+<br>
+9) Completed. Click "Finish"
+<img width="386" alt="Completed, click Finish" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/703deaf1-4f0e-4ad4-a503-0f226300cb43">
+<br>
+10) Instant Configuration page, click "Next"
+<img width="374" alt="instance config, click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/cea6bebc-0f15-4302-9336-9f4cacef2799">
+<br>
+11) Click "Standard Configuation", then click "Next"
+<img width="374" alt="standard, click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/325a05b7-bd6c-4543-baee-06e1305e4788">
+<br>
+12) Window Options page, click "Next"
+<img width="374" alt="Window options, click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/6069643a-5d34-4018-8dae-3675b6bd6158">
+<br>
+13) Type a password, then click "Next"
+<img width="374" alt="type password, click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/db02e606-9eee-41df-bdcf-88d399a610bb">
+<br>
+14) Ready to execute page, click "Execute"
+<img width="374" alt="ready to eecute page, click execute" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/04b4dd5a-a2a0-42cd-89b6-bc8d4cfad443">
+<br>
+15) When that's done, press "Finish"
+<img width="374" alt="When that's done, press finish" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a490cc84-a903-49cb-af3a-fde517948a0a">
+<br>
 
 <strong> I - Open IIS as an Admin and Register PHP </strong>
 
