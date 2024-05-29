@@ -150,24 +150,25 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 4) Should see this in the upper right hand corner. Click "Open File" <br>
 <img width="275" alt="rewrite - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/09a9bbc0-8470-4b09-b384-660042ebd1ec">
 <br>
-<br>
-<br>
+5) On the License Agreement Page, click the "I accept the terms in the LIcense Agreement" box, then click "Install" <br>
+6) Then click the "Finish" button<br>
 <br>
 
 <strong> E - Create the directory C:\PHP </strong>
 
-General idea:
-Change downloads to C:, and then put a folder titled PHP inside of it
-
-Steps:
+Steps: <br>
 File Explorer> <br>
-(add screenshot) <br>
-Change Downloads to C: > <br>
-(add screenshot) <br>
-Right click white space + new + folder > <br>
-(add screenshot) <br>
+<img width="960" alt="file explorer" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/553498e5-4d5d-47cd-b446-6aa10879b0e1">
+ <br>
+Click "This PC" then click "C:" > <br>
+<img width="590" alt="this pc - c" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/71f2e5fa-6d63-4994-993b-27bc1c54e4b3">
+ <br>
+Right click white space, hover mouse over "New", click "Folder" > <br>
+<img width="590" alt="right click new folder" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f7b83028-0a03-4131-a71c-6369199eac21">
+<br>
 Title it PHP <br>
-(add screenshot) <br>
+<img width="590" alt="Title PHP" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/68605cd9-6036-43d9-a598-55e81586de34">
+<br>
 
 
 <strong> F - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP<br>
