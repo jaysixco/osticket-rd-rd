@@ -327,10 +327,10 @@ End Users osTicket URL: http://localhost/osTicket/
 
 <p>
 <h2> Screenshots for Later, just in case </h2> <br>
-For Install the Rewrite Modue:
-a) Rewrite License Agreement Page
+For Install the Rewrite Modue: <br>
+a) Rewrite License Agreement Page 
 <img width="385" alt="rewrite - lic agrment page jic" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dd0e4442-6e26-4b78-99df-c8aa5d0fba63"> <br>
-b) Rewrite Finish button page
+b) Rewrite Finish button page 
 <img width="386" alt="rewrite - finish button" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/87200cee-0c04-44ad-b37e-8ff25299d019"> <br>
 
 
