@@ -187,18 +187,19 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 <img width="277" alt="php - open file" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fe99b301-2737-4cea-becc-a7149bf50044">
 <br>
 5) Click File Explorer (1), click "Downloads (2), right click "php-7.3.8..." (3), click "extract All" (4) <br>
-(add) <br>
-click "Browse" <br>
+<img width="644" alt="click extract all" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9c48071f-c146-4027-aa4d-74ff88469123">
+<br>
+6) click "Browse" <br>
 <img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0d3b791c-8af7-43ee-bdc6-65fb83bc64ef">
 <br>
-click "This pc", then click "C:" <br>
+7) click "This pc", then click "C:" <br>
 <img width="470" alt="this pc - c" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e8f41dd1-21fc-40b8-a508-79a44ff4fe56">
  <br>
-click "Select Folder" <br>
+8) click "Select Folder" <br>
 <img width="470" alt="select folder" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b90dee1a-94cc-4eaa-8900-4546ccaf6552">
 <br>
-click "Extract" <br>
-<img width="644" alt="click extract all" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/491d4661-c19d-49be-8ab8-946959599ccb">
+9) click "Extract" <br>
+<img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fc2135d2-d373-42ff-8b46-461785d4adea">
 <br>
 <br>
 <strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong> <br>
