@@ -112,6 +112,7 @@ Check "Internet Information Service" (1), then click the small plus sign next to
 <img width="347" alt="Internet Information Service" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f22f6e37-369f-4c8e-a7b7-ca7303de2a71"> 
 <br>
 CLick small plus sign to Expand "World Wide Web Services" (1), Click small plus sign to Expand "Application Development Features" (2), then check box next to "CGI" (3) <br>
+<img width="347" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e1b92e80-305e-40d4-be5c-aa369a3c44a4">
 <img width="347" alt="Check CGI" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3a9db1da-729b-423e-b01f-2f778bf4051e"> 
 <br>
 Scroll down a little bit and click small plus sign to Expand "Common HTTP Features", then make sure all the boxes are checked, then click "Ok". When done, Should look like this:
@@ -132,8 +133,12 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 <img width="276" alt="Click Open File" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/9ee52e6c-1eb1-45ef-9aed-a04577618c11">
 <br>
 5) On the Welcome page, click "Next"<br>
+<img width="389" alt="Welcome - click next" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fc67f6cd-856c-4464-943c-ade23a2b6af5">
 6) On the License Agreement page, click "I Agree" then click "Next" <br>
+<img width="389" alt="LA - I agree" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/4e75a8ae-a3e8-45d7-8a43-e0e6b411c0af">
 7) On the Installation Complete page, click "Close<br>
+<img width="389" alt="IC - close" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a8080585-1845-445b-a97d-32775c9cd103">
+
 <br>
 
 <strong> D - From the Installation Files page, download and install the Rewrite Module (rewrite_amd64_en-US.msi) </strong>
