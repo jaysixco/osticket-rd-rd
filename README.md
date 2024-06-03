@@ -475,7 +475,9 @@ MySQL Password: Password1 (or whatever password you created in Step 12) <br>
 After you fill in the section, click “Install Now!” <img width="462" alt="Database settings section filled in, then click Install Now" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/50cd33c8-7161-430f-992a-4a07635287ab"> <br>
 
 
-Congratulations, hopefully it is installed with no errors!
+Congratulations, hopefully it is installed with no errors! <br>
+<img width="552" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/3e6b14da-4776-40fd-b08d-ad851b3a7c05">
+
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 End Users osTicket URL:
@@ -493,7 +495,7 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 5) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
 <br>
-6) Right click "setup", then click "Delete" <img width="425" alt="right click setup, then click delete" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e7333446-66d0-4c4c-a229-fde246707b8d">
+6) Click "setup", right click it, then click "Delete" <img width="425" alt="right click setup, then click delete" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e7333446-66d0-4c4c-a229-fde246707b8d">
 <br>
 
 
@@ -509,7 +511,7 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 6) Double click "include> <img width="425" alt="double click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fd3afa7b-b44c-430c-b44e-cd03debb8a59">
 <br>
-7) Scroll down, right click "ost-config.php", click "Properties"> <img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
+7) Scroll down, click "ost-config.php", then right click it and click "Properties"> <img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
 <br>
 8) Click "Security" tab, then click "Advanced"> <img width="272" alt="click Security tab, click Advanced" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/529c2f8c-57c8-4181-a076-4b14ba48eb5d">
 <br>
@@ -522,13 +524,4 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 <br>
 <br>
-
-Notes: <br>
-Browse to your help desk login page: <br>
-http://localhost/osTicket/scp/login.php <br>
-End Users osTicket URL: <br>
-http://localhost/osTicket/ 
-
-</p>
-<br />
 
