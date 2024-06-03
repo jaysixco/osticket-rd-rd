@@ -501,15 +501,20 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 
 <strong>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php </strong> <br>
 1) Open File Explorer
-2) Click "This Pc", scroll down, then double click "Windows (C:)"<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
+2) Click "This Pc", scroll down, then double click "Windows (C:)"<br>
+<img width="425" alt="this pc - then click C" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5411fa3e-2c7b-43ac-bdf5-a08c18e29da9">
 <br>
-3) Double click "inetpub" <img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
+3) Double click "inetpub" <br>
+<img width="425" alt="dub click inetpub" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/5725624a-6a70-4313-9be6-56b7ddcda85e">
 <br>
-4) Double click "wwwroot" <img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
+4) Double click "wwwroot" <br>
+<img width="425" alt="dub click wwwroot" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/eb60ad97-e977-4f27-9d90-45f19e82d303">
 <br>
-5) Double click "osTicket" <img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
+5) Double click "osTicket" <br>
+<img width="425" alt="dub click osTicket" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/749984e2-7c24-411b-b804-6f9b64761018">
 <br>
-6) Double click "include> <img width="425" alt="double click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fd3afa7b-b44c-430c-b44e-cd03debb8a59">
+6) Double click "include> <br>
+<img width="425" alt="double click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fd3afa7b-b44c-430c-b44e-cd03debb8a59">
 <br>
 7) Scroll down, click "ost-config.php", then right click it and click "Properties"> <br>
 <img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
