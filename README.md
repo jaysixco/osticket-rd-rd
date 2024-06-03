@@ -197,15 +197,15 @@ If this appears, choose to “Keep” the file: (add screenshot) </strong> <br>
 6) click "Browse" <br>
 <img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0d3b791c-8af7-43ee-bdc6-65fb83bc64ef">
 <br>
-7) click "This pc", then click "C:" <br>
+7) click "This pc", scroll down, then double click "C:" <br>
 <img width="470" alt="this pc - c" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/e8f41dd1-21fc-40b8-a508-79a44ff4fe56">
  <br>
 8) click "Select Folder" <br>
 <img width="470" alt="select folder" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b90dee1a-94cc-4eaa-8900-4546ccaf6552">
 <br>
 9) click "Extract" <br>
-<img width="441" alt="browse" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fc2135d2-d373-42ff-8b46-461785d4adea">
-<br>
+<img width="441" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ead0cada-1313-4168-b01c-456433b4a717">
+
 
 
 <strong> G - From the Installation Files, download and install VC_redist.x86.exe. </strong> <br>
@@ -369,7 +369,7 @@ Enable: php_opcache.dll by clicking the name (1), then clicking "Enable" (2) <im
 Pull up this page up again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
 and scroll down <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
 <br>
-Hit refresh, observe the chanfges <img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
+Hit refresh, observe the changes <img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
 <br>
 
 <strong> O - Rename: ost-config.php
@@ -416,7 +416,9 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</strong> <br>
 
 <strong> S - Continue Setting up osTicket in the browser (click Continue) </strong>
 1) Pull up this page again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
-2) Scroll down and click "Continue" <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
+2) Scroll down and click "Continue" <br>
+<img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
+<br>
 <br>
 
 For the "osTicket Basic Installation" page, fill out the information below to continue your osTicket installation. All fields are required. <br>
@@ -427,10 +429,15 @@ First name: Jay <br>
 Last name: Jay <br>
 Email: jay@gmail.com <br>
 username: jay <br>
-password: Password1
+password: Password1 <br>
 Retype password: Password1 <br>
+<img width="553" alt="Basic Install page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/16623b3a-3ab8-4a25-9700-90783410253a">
+<br>
+<br>
 
-</strong> After you fill in the above, scroll down until you see **Database Settings** (add ss).
+</strong> After you fill in the above, scroll down until you see **Database Settings**<br>
+<img width="557" alt="db settings" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/24168ac5-6043-4e7e-bccf-e24ca383fda4">
+
 
 T - Before we can fill out "Database Settings" section, we have to download and install HeidiSQL. <br>
 1) Open a new tab
