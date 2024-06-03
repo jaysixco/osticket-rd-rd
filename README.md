@@ -511,16 +511,22 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 6) Double click "include> <img width="425" alt="double click include" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/fd3afa7b-b44c-430c-b44e-cd03debb8a59">
 <br>
-7) Scroll down, click "ost-config.php", then right click it and click "Properties"> <img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
+7) Scroll down, click "ost-config.php", then right click it and click "Properties"> <br>
+<img width="425" alt="scroll down, right click ost, click Properties (2)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/1fc505eb-933d-4a86-aa8b-48d8135a8bcd">
 <br>
-8) Click "Security" tab, then click "Advanced"> <img width="272" alt="click Security tab, click Advanced" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/529c2f8c-57c8-4181-a076-4b14ba48eb5d">
+8) Click "Security" tab, then click "Advanced"> <br>
+<img width="272" alt="click Security tab, click Advanced" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/529c2f8c-57c8-4181-a076-4b14ba48eb5d">
 <br>
-9) Click "Everyone", then click "Edit" <img width="575" alt="click Everyone, then click Edit (4)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a245b1a1-eb9e-4b06-8661-d0158ebc11e7"><br>
-10) Uncheck "Modify", uncheck "Write", then click "OK" <img width="688" alt="Uncheck Modify, then uncheck Write, then click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7e4ce5c0-e2ca-4e62-9418-dd9a2c97e830">
+9) Click "Everyone", then click "Edit" <br>
+<img width="575" alt="click Everyone, then click Edit (4)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a245b1a1-eb9e-4b06-8661-d0158ebc11e7"><br>
+10) Uncheck "Modify", uncheck "Write", then click "OK" <br>
+<img width="688" alt="Uncheck Modify, then uncheck Write, then click Ok" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/7e4ce5c0-e2ca-4e62-9418-dd9a2c97e830">
 <br>
-11) Click "Apply", then click "Ok" <img width="575" alt="Click Apply, click Ok (after Modify)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0bdf4614-4a0d-4da8-a4dc-533c24344d52">
+11) Click "Apply", then click "Ok" <br>
+<img width="575" alt="Click Apply, click Ok (after Modify)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/0bdf4614-4a0d-4da8-a4dc-533c24344d52">
 <br>
-12) Click "Ok" <img width="272" alt="Click Ok (final one)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/80ab5763-a202-4d2a-bca0-84cdc9565315">
+12) Click "Ok" <br>
+<img width="272" alt="Click Ok (final one)" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/80ab5763-a202-4d2a-bca0-84cdc9565315">
 <br>
 <br>
 <br>
