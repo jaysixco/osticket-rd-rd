@@ -86,7 +86,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <strong> A - Open Installation File Folder in VM </strong>
 
-1) Log in to VM
+1) Log in to VM via Remote Desktop (should probably add steps and pics for this)
 
 2) Open Microsoft Edge, open new tab and paste this link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, which will bring you to this page that I will refer to from here on as the "Installation Files page": <br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a8a64155-d6a0-4bbc-bbe7-0da0be3f145a">
