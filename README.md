@@ -108,7 +108,7 @@ Click "Programs" > <br>
 Click "Turn Windows on/off" > <br>
 <img width="590" alt="Windows on off" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/dc049e7b-4395-41ad-96d0-c3f383a8e872">
 <br>
-Check "Internet Information Service" (1), then click the small plus sign next to it to expand it (2) > <br>
+Click the box next to "Internet Information Service" (1), then click the small plus sign next to it to expand it (2) > <br>
 <img width="347" alt="Internet Information Service" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f22f6e37-369f-4c8e-a7b7-ca7303de2a71"> 
 <br>
 CLick small plus sign to Expand "World Wide Web Services" (1), Click small plus sign to Expand "Application Development Features" (2), then check box next to "CGI" (3) <br>
@@ -120,7 +120,7 @@ Scroll down a little bit and click small plus sign to Expand "Common HTTP Featur
 <br>
 
 <strong> C - From the Installation Files page, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) </strong> <br>
-1) Start at the Installation Files Page br>
+1) Start at the Installation Files Page <br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/b6d5539d-ddfc-435d-809e-791d073f8ac3">
 <br>
 2) Click PHP Manager's download button <br>
@@ -165,13 +165,13 @@ Steps: <br>
 File Explorer> <br>
 <img width="960" alt="file explorer" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/553498e5-4d5d-47cd-b446-6aa10879b0e1">
  <br>
-Click "This PC" then click "C:" > <br>
+Click "This PC" then double click "C:" > <br>
 <img width="590" alt="this pc - c" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/71f2e5fa-6d63-4994-993b-27bc1c54e4b3">
  <br>
 Right click white space, hover mouse over "New", click "Folder" > <br>
 <img width="590" alt="right click new folder" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/f7b83028-0a03-4131-a71c-6369199eac21">
 <br>
-Title it PHP <br>
+Title it PHP and then hit enter <br>
 <img width="590" alt="Title PHP" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/68605cd9-6036-43d9-a598-55e81586de34">
 <br>
 
@@ -369,7 +369,15 @@ Enable: php_opcache.dll by clicking the name (1), then clicking "Enable" (2) <im
 Pull up this page up again <img width="960" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ddbf15ae-5f54-429a-8554-7cfff92588c7"> <br>
 and scroll down <img width="461" alt="scroll down" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/43195d16-9771-41b3-9ba3-53047b59de31">
 <br>
-Hit refresh, observe the changes <img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
+Pull up the IIS Manager <br>
+Click Windows (1) then Click Restart (2) <br>
+<img width="709" alt="image" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/ef743ca1-0c06-47bb-8d23-7f64721ce566">
+<br>
+Click "osTicket" then click "Browse *:80 (http)" <br>
+<img width="709" alt="click osTicket, then Browse 80" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/58ef7886-42c3-4357-a453-bf16a3ad8787">
+<br>
+Observe the changes <br>
+<img width="463" alt="changes" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/79c0a47f-9af2-4d00-b8c3-93276efee9b5">
 <br>
 
 <strong> O - Rename: ost-config.php
@@ -427,9 +435,9 @@ Help desk name: Jay HelpDesk <br>
 Default email: jay@helper.com <br>
 First name: Jay <br>
 Last name: Jay <br>
-Email: jay@gmail.com <br>
-username: jay <br>
-password: Password1 <br>
+Email Address: jay@gmail.com <br>
+Username: jay <br>
+Password: Password1 <br>
 Retype password: Password1 <br>
 <img width="553" alt="Basic Install page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/16623b3a-3ab8-4a25-9700-90783410253a">
 <br>
