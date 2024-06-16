@@ -77,16 +77,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <strong> Part 2 (Installation) </strong>
   This part is super simple. What it mainly consists of is clicking and downloading things. 
 
 
-<strong> A - Open Installation File Folder in VM </strong>
+<strong> A - Open Installation File Folder in VM </strong> <br>
 
-1) Log in to VM via Remote Desktop (should probably add steps and pics for this)
+<strong> Connect to your Windows 10 Virtual Machine (VM) through Remote Desktop </strong> <br>
+
+1) Starting from the Virtual Machines homepage (see screenshot), right click the name of your Windows 10 VM and open it in a new tab <br>
+![Virtual Machines homepage](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/3aa12a11-a66d-463a-9986-cce1b92aa8e4)
+2) In the Window 10 VM homepage, look for "Public IP address" and click white space next to it to copy that number to your clipboard <br>
+![Windows 10 VM homepage](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/d6b36c15-52da-4daa-8d6b-b6852dc2b384)
+3) Click the Search button at the bottom of your screen (1), type "Remote Desktop Connection" (2) and then click "Open" (3) <br>
+![Remote Desktop Login](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/171f3b17-5895-4a7f-9591-1d7b359c3191)
+4) Press the "Ctrl" and "V" button on your keyboard at the same time to paste the number you copied in step 2 and then click "Connect" <br>
+5) On the page that says "Enter Your Credentials" click "More choices" and then "Use a different account" <br>
+6) Type the username and password you created for Windows 10 VM, then click the blue button that says "Ok"
+7) If this pops up (see screenshot), click "Yes". <br>
+![if this pops up](https://github.com/jaysixco/monitoring-traffic-rd/assets/160427311/a3f8403a-d15e-4eef-809d-c961677f0596)
+8) As it logs you into the Virtual Machine, there will be a blue page that says "Choose privacy settings for your device". Turn them all off. Then click the blue button at the bottom that says "Accept".
+
+<br>
 
 2) Open Microsoft Edge, open new tab and paste this link: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6, which will bring you to this page that I will refer to from here on as the "Installation Files page": <br>
 <img width="960" alt="Installation Files Page" src="https://github.com/jaysixco/osticket-rd-rd/assets/160427311/a8a64155-d6a0-4bbc-bbe7-0da0be3f145a">
@@ -543,4 +557,20 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br>
 <br>
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
