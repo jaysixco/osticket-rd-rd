@@ -1,4 +1,4 @@
-# osticket-rd-rd
+# osticket
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
@@ -10,10 +10,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -Windows Computer
 
 -Google Chrome
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
