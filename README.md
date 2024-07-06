@@ -5,17 +5,15 @@
 </p>
 
 <h1>Summary </h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
--Windows Computer
-
--Google Chrome
+In this tutorial, we are going to install osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Windows Computer
+- Google Chrome
 
 <h2>Operating Systems Used </h2>
 
