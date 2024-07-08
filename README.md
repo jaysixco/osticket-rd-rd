@@ -12,7 +12,6 @@ In this tutorial, we are going to install osTicket.<br />
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Google Chrome
 
 <h2>Operating Systems Used </h2>
 
