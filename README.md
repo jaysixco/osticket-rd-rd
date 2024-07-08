@@ -9,10 +9,9 @@ In this tutorial, we are going to install osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
-- Windows Computer
 - Google Chrome
 
 <h2>Operating Systems Used </h2>
